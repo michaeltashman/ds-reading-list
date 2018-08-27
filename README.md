@@ -1,2 +1,18 @@
 # ds-reading-list
-Interesting research papers on machine learning, ad bidding, etc
+Some research papers I've come across that were useful or that I'm meaning to read.
+
+## KDD 2018
+
+[Reinforcement Learning to Rank in E-Commerce Search Engine: Formalization, Analysis, and Application](http://www.kdd.org/kdd2018/accepted-papers/view/reinforcement-learning-to-rank-in-e-commerce-search-engine-formalization-an)
+
+[Mini-Batch AUC Optimization](https://docs.wixstatic.com/ugd/b6ac34_9f4bd4989c1f441aa8cced3264285da5.pdf)
+
+[Deep density networks and uncertainty in recommender systems](https://docs.wixstatic.com/ugd/b6ac34_7010907bceb44809bc5349c24555f9c5.pdf)
+
+[Training Big Random Forests with Little Resources](https://arxiv.org/pdf/1802.06394.pdf)
+
+[Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts](https://dl.acm.org/citation.cfm?id=3219819.3220007)
+
+[Calibrated Multi-Task Learning](http://www.kdd.org/kdd2018/accepted-papers/view/calibrated-multi-task-learning)
+
+[Learning Adversarial Networks for Semi-Supervised Text Classification via Policy Gradient](http://www.kdd.org/kdd2018/accepted-papers/view/learning-adversarial-networks-for-semi-supervised-text-classification-via-p)
