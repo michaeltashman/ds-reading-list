@@ -19,6 +19,8 @@ Some research papers I've come across that were useful or that I'm meaning to re
 
 ## Ad Bidding Approaches
 
+[Bid Optimizing and Inventory Scoring in Targeted Online Advertising](http://wnzhang.net/share/rtb-papers/lin-bid.pdf)
+
 [Real-Time Bidding by Reinforcement Learning in Display Advertising](http://wnzhang.net/papers/rlb.pdf)
 
 [Joint Optimization of Multiple Performance Metrics in Online Video Advertising](http://www.kdd.org/kdd2016/papers/files/adp0722-geyikA.pdf) (KDD 2016)
