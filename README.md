@@ -16,3 +16,15 @@ Some research papers I've come across that were useful or that I'm meaning to re
 [Calibrated Multi-Task Learning](http://www.kdd.org/kdd2018/accepted-papers/view/calibrated-multi-task-learning)
 
 [Learning Adversarial Networks for Semi-Supervised Text Classification via Policy Gradient](http://www.kdd.org/kdd2018/accepted-papers/view/learning-adversarial-networks-for-semi-supervised-text-classification-via-p)
+
+## Ad Bidding Approaches
+
+[Real-Time Bidding by Reinforcement Learning in Display Advertising](http://wnzhang.net/papers/rlb.pdf)
+
+[Joint Optimization of Multiple Performance Metrics in Online Video Advertising](http://www.kdd.org/kdd2016/papers/files/adp0722-geyikA.pdf) (KDD 2016)
+
+[Optimal Real-Time Bidding for Display Advertising](http://wnzhang.net/share/rtb-papers/optimal-rtb.pdf)
+
+## Misc
+
+[Controllability of multiplex, multi-time-scale networks](https://www.barabasilab.com/publications/controllability-of-multiplex-multi-time-scale-networks) <- From BarabasiLab, my old research lab
