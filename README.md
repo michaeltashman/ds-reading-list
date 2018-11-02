@@ -31,10 +31,10 @@ Some papers and books I've come across that were useful, or that I've been meani
 
 [Controllability of multiplex, multi-time-scale networks](https://www.barabasilab.com/publications/controllability-of-multiplex-multi-time-scale-networks) <- From BarabasiLab, my old research lab
 
-[Why Information Grows by Cesar Hidalgo](https://www.goodreads.com/book/show/20763722-why-information-grows) (Really interesting book by a BarabasiLab alumnus)
+[Why Information Grows by César Hidalgo](https://www.goodreads.com/book/show/20763722-why-information-grows) Really interesting book by César Hidalgo, a BarabasiLab alumnus
 
 ## Reference Textbooks
 
 [Pattern Recognition and Machine Learning by Christopher Bishop](https://www.springer.com/us/book/9780387310732)
 
-[The Algorithm Design Manual](http://www.algorist.com)
+[The Algorithm Design Manual by Steven Skiena](http://www.algorist.com)
