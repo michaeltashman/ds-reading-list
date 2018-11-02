@@ -21,9 +21,7 @@ Some papers and books I've come across that were useful, or that I've been meani
 
 [Bid Optimizing and Inventory Scoring in Targeted Online Advertising](http://wnzhang.net/share/rtb-papers/lin-bid.pdf)
 
-[Real-Time Bidding by Reinforcement Learning in Display Advertising](http://wnzhang.net/papers/rlb.pdf)
-
-[Joint Optimization of Multiple Performance Metrics in Online Video Advertising](http://www.kdd.org/kdd2016/papers/files/adp0722-geyikA.pdf) (KDD 2016)
+[Optimal Bidding Strategy for Brand Advertising](https://www.ijcai.org/proceedings/2018/0059.pdf)
 
 [Optimal Real-Time Bidding for Display Advertising](http://wnzhang.net/share/rtb-papers/optimal-rtb.pdf)
 
