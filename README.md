@@ -17,14 +17,6 @@ Some papers and books I've come across that were useful, or that I've been meani
 
 [Learning Adversarial Networks for Semi-Supervised Text Classification via Policy Gradient](http://www.kdd.org/kdd2018/accepted-papers/view/learning-adversarial-networks-for-semi-supervised-text-classification-via-p)
 
-## Ad Bidding Approaches
-
-[Bid Optimizing and Inventory Scoring in Targeted Online Advertising](http://wnzhang.net/share/rtb-papers/lin-bid.pdf)
-
-[Optimal Bidding Strategy for Brand Advertising](https://www.ijcai.org/proceedings/2018/0059.pdf)
-
-[Optimal Real-Time Bidding for Display Advertising](http://wnzhang.net/share/rtb-papers/optimal-rtb.pdf)
-
 ## Misc
 
 [Controllability of multiplex, multi-time-scale networks](https://www.barabasilab.com/publications/controllability-of-multiplex-multi-time-scale-networks) <- From BarabasiLab, my old research lab
